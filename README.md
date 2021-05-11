@@ -8,7 +8,7 @@ Bringing Machine Learning into Security
 - Analyze data to produce threat intelligence.  
 - Apply real-world use cases within Optum to drive the practical application and protect intellectual and proprietary information.    
 
-Centaur *noun*:  
+Centaur [sen-tawr] *noun*:  
 1. Classical Mythology. one of a race of monsters having the head, trunk, and arms of a man, and the body and legs of a horse.  
 2. (initial capital letter)Astronomy. the constellation Centaurus.  
 3. a skillful horseman or horsewoman.  
@@ -29,3 +29,5 @@ Threats to resources from statistical analysis of behaviour indicative of malici
 
 Threats unknowingly injected from code repositories through 3rd party usage of open source content  
 
+## Ideation:  
+Research methods that can take advantage of manchine learning algorithms to analyze potential exfiltration patterns of sensitive data from the corporate netowrk.  
