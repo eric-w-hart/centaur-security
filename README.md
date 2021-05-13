@@ -29,5 +29,5 @@ Threats to resources from statistical analysis of behaviour indicative of malici
 
 Threats unknowingly injected from code repositories through 3rd party usage of open source content  
 
-## Ideation:  
+## Ideation:   
 Research methods that can take advantage of manchine learning algorithms to analyze potential exfiltration patterns of sensitive data from the corporate netowrk.  
